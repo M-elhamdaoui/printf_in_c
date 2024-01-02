@@ -1,5 +1,6 @@
 #Printf 
-#bout the project
+
+#about the project
 
 this project using C programming language implementing the functionality of printf function.
 in this project I've used the va_list to handle the unkonwn number of argimunts that could the user pass to the function.
